@@ -1,32 +1,32 @@
-# 📝 To-Do List Application (C++)
+# To-Do List Application (C++)
 
-## 📌 Internship Task - CodeAlpha
+## Internship Task - CodeAlpha
 
 This is a simple console-based To-Do List application built using C++.
 
-## 🚀 Features
+## Features
 - Add new tasks
 - View all tasks
 - Mark tasks as completed
 - Save & load tasks using file handling
 
-## 🛠️ Technologies Used
+## Technologies Used
 - C++
 - File Handling
 - OOP (Classes & Objects)
 - Vectors
 
-## ▶️ How to Run
+## How to Run
 1. Compile the code:
    g++ todo.cpp -o todo
 2. Run the program:
    ./todo
 
-## 📷 Output
+## Output
 Console-based task manager with menu options.
 
-## 🔗 Author
-Your Name
+## Author
+Mohd Uzair
 
-## 📢 Internship
+## Internship
 CodeAlpha Internship Project
